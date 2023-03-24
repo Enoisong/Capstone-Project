@@ -92,7 +92,6 @@ It will be deployed after merge
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 -   
 - 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
