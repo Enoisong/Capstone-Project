@@ -40,11 +40,11 @@ const speakersData = [{
   details: 'Dr. Chee Ken Nee has more than 12 years of experience as a high school teacher with PhD in Educational Technology.',
   image: './images/Ken.png',
 },
-];  
+];
 function speakerfunc() {
   const container = document.querySelector('.experts');
   speakersData.map((el) => {
-  const div = document.createElement('div');
+    const div = document.createElement('div');
     div.innerHTML = `<img class="images" src=${el.image} width="150" height="150" alt="Exhibition image" />
   <div class="details">
     <h4>${el.name}</h4>
@@ -56,4 +56,4 @@ function speakerfunc() {
     return container.appendChild(div);
   });
 }
-window.addEventListener('load', speakerfunc);  
+window.addEventListener('load', speakerfunc);
