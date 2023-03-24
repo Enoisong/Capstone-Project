@@ -27,7 +27,7 @@
 
 #program {
   align-content: center;
-  justify-content: space-between; 
+  justify-content: space-between;
   background-image: url(./images/background24.png);
   padding: 2rem 0;
 }
@@ -370,7 +370,7 @@
 }
 
 @keyframes example {
-  from { color: rgb(66, 9, 9)255, 251, 0; }
+  from { color: rgb(97, 7, 7); }
   to { color: rgb(0, 65, 163); }
 }
 
@@ -736,12 +736,11 @@
     margin-left: 10rem;
     display: flex;
     justify-content: space-between;
-    width: 50%;    
+    width: 50%;
   }
 
   #navbar .navbar-brand {
-    margin-left: 8rem;
-    
+    margin-left: 8rem;    
   }
 
   #speakers .container {
@@ -785,5 +784,3 @@
     }
   }
 }
-
-
