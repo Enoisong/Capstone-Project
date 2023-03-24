@@ -20,6 +20,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
 # 📖  Capstone Project <a name="about-project"></a> 
  
@@ -28,10 +29,12 @@ Capstone Project is a mobile website designed as part of Microverse coursework.
 - HTML
 - CSS
 - javascript
+
 ### Tech Stack <a name="tech-stack"></a>
 - HTML
 - CSS
 - javascript
+
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
 - The About page
@@ -53,6 +56,7 @@ Install Live server VScode extension and run Go Live
 ### Setup
 Clone this repository to your desired folder: 
 https://github.com/Enoisong/Capstone-Project.git
+
 ### Install
 Install this project with:
  
