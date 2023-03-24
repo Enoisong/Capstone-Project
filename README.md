@@ -42,7 +42,9 @@ Capstone Project is a mobile website designed as part of Microverse coursework.
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
-- https://enoisong.github.io/Mobile-First-Portfolio/
+https://www.loom.com/share/189d9a072c1a48509aa10e52405724bd
+
+
 ## 💻 Getting Started <a name="getting-started"></a>
 clone from repository: https://github.com/Enoisong/Capstone-Project.git
 ### Prerequisites
