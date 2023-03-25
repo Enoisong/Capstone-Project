@@ -8,7 +8,8 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
-  }
+}
+
 #navbar .btn-outline-success {
   border: 3px solid#ec5242;
   color: 2px solid black;
@@ -735,11 +736,11 @@
     padding: 0 9rem 0 58rem;
     color: white;
     font-size: 6px solid white;
-    }
+  }
 
   li {
     list-style: none;
-    font-family: 'Lato', sans-serif;    
+    font-family: 'Lato', sans-serif;
   }
 
   #navbar .navbar-nav {
