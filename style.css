@@ -15,8 +15,7 @@
   color: black;
   margin-right: 7rem;
   font-size: 12px;
-  margin-left: -10px;
-  font-style: sans-serif;
+  margin-left: -10px; 
 }
 
 #navbar .nav-item {
@@ -381,7 +380,7 @@
   color: black;
   font-weight: 600;
   line-height: 24px;
-  font-family: "cocogoose", sans-serif;  
+  font-family: "cocogoose", sans-serif; 
   margin-left: 30px;
   margin-bottom: 30px;
   margin-top: 10px;
@@ -733,8 +732,7 @@
     display: flex;
     justify-content: space-between;
     padding: 0 9rem 0 58rem;
-    color: white;
-    font-size: white;
+    color: white;   
   }
 
   li {
