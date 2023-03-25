@@ -116,7 +116,13 @@ If you like this project, give me a star
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to acknowledge Microverse community for thier support.
+
+The original design ideal by [Cindy Shin in Behance] (https://www.behance.net/adagio7.
+-	 Project from [Microverse](https://www.microverse.org/) html & css modules.
+-	Thanks to the Microverse team for the great curriculum.
+-	Thanks to the Code Reviewer(s) for the insightly feedbacks.
+-	A great thanks to my coding partner(s), morning session team, and standup team for their contributions.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## 📝 License <a name="license"></a> 
