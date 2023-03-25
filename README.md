@@ -20,6 +20,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
 # 📖  Capstone Project <a name="about-project"></a> 
  
@@ -28,10 +29,12 @@ Capstone Project is a mobile website designed as part of Microverse coursework.
 - HTML
 - CSS
 - javascript
+
 ### Tech Stack <a name="tech-stack"></a>
 - HTML
 - CSS
 - javascript
+
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
 - The About page
@@ -53,6 +56,7 @@ Install Live server VScode extension and run Go Live
 ### Setup
 Clone this repository to your desired folder: 
 https://github.com/Enoisong/Capstone-Project.git
+
 ### Install
 Install this project with:
  
@@ -88,8 +92,9 @@ It will be deployed after merge
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
--   
+-   Project Page
+-   Service Page
+-   Contact Page
 - 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +116,13 @@ If you like this project, give me a star
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to acknowledge Microverse community for thier support.
+
+The original design ideal by [Cindy Shin in Behance] (https://www.behance.net/adagio7.
+-	 Project from [Microverse](https://www.microverse.org/) html & css modules.
+-	Thanks to the Microverse team for the great curriculum.
+-	Thanks to the Code Reviewer(s) for the insightly feedbacks.
+-	A great thanks to my coding partner(s), morning session team, and standup team for their contributions.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## 📝 License <a name="license"></a> 
