@@ -39,7 +39,6 @@ Capstone Project is a mobile website designed as part of Microverse coursework.
 ### Key Features <a name="key-features"></a>
 - The About page
 - The Home Page
-- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
