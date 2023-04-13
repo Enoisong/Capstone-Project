@@ -7,27 +7,24 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "cocogoose", sans-serif;
-}
-
-#root {
-  background-color: #f1f5fa;
-  background-image: url(./images/background22.jpg);
+  font-family: 'Lato', sans-serif;
 }
 
 #navbar .btn-outline-success {
-  border: 3px solid red;
-  color: red;
-  margin-right: 8rem;
+  border: 3px solid#ec5242;
+  color: black;
+  margin-right: 7rem;
+  font-size: 12px;
+  margin-left: -10px;
 }
 
 #navbar .nav-item {
-  color: red;
+  color: #e65040;
 }
 
 #program {
   align-content: center;
-  justify-content: space-between; 
+  justify-content: space-between;
   background-image: url(./images/background24.png);
   padding: 2rem 0;
 }
@@ -45,7 +42,7 @@
   margin: 5px;
   padding: 5px;
   width: calc(20% - 10px);
-  min-height: 30vh;
+  min-height: 45vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -69,6 +66,8 @@
   font-size: 12px;
   color: white;
   text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #program h3 {
@@ -94,7 +93,7 @@
   margin: auto;
   border: none;
   height: 4px;
-  background: red;
+  background: #ec5242;
 }
 
 #speakers {
@@ -116,7 +115,7 @@
   margin: auto;
   border: none;
   height: 4px;
-  background: red;
+  background-color: #ec5242;
 }
 
 #speakers .container h4 {
@@ -129,7 +128,7 @@
 #speakers .container h5 {
   font-size: 12px;
   font-weight: 600;
-  color: rgb(201, 11, 11);
+  color: #ec5242;
   margin: 20px;
 }
 
@@ -147,7 +146,7 @@
 }
 
 #about #container-def h1 {
-  color: #d41c1c;
+  color: #ec5242;
   font-size: 70px;
   font-weight: 1000;
   line-height: 70px;
@@ -158,7 +157,7 @@
 }
 
 #about #container-def h3 {
-  color: #d31717;
+  color: #ec5242;
   font-size: 40px;
   font-weight: 600;
   line-height: 24px;
@@ -211,7 +210,7 @@
   margin: auto;
   border: none;
   height: 4px;
-  background: red;
+  background-color: #ec5242;
 }
 
 #about .about-logo h4 {
@@ -353,24 +352,27 @@
 
 #index #container-def {
   width: 90%;
-  height: 650px;
+  height: 30px;
   margin: auto;
   display: flex;
   flex-direction: column;
 }
 
 #index #container-def h1 {
-  color: #d41c1c;
+  color: #ec5242;
   font-size: 70px;
   font-weight: 1000;
   line-height: 70px;
   padding-bottom: 12px;
+  margin-left: 30px;
   font-family: "Lato", sans-serif;
   animation: example 5s ease-in-out 1;
+  margin-top: -10px;
+  margin-bottom: 10px;
 }
 
 @keyframes example {
-  from { color: rgb(66, 9, 9)255, 251, 0; }
+  from { color: rgb(97, 7, 7); }
   to { color: rgb(0, 65, 163); }
 }
 
@@ -379,7 +381,9 @@
   font-weight: 600;
   line-height: 24px;
   font-family: "cocogoose", sans-serif;
-  margin-top: 1rem;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  margin-top: 10px;
 }
 
 #index #container-def p {
@@ -387,16 +391,20 @@
   font-size: 16px;
   line-height: 24px;
   font-family: "Cocogoose", sans-serif;
-  margin-top: 1rem;
+  margin-left: 30px;
+  margin-top: -10px;
 }
 
 #index #container-def h3 {
-  color: #d31717;
-  font-size: 40px;
+  color: #ec5242;
+  font-size: 30px;
   font-weight: 600;
   line-height: 24px;
   font-family: "Cocogoose", sans-serif;
   padding-top: 10rem;
+  margin-left: 30px;
+  margin-top: -120px;
+  margin-bottom: 10px;
 }
 
 @media screen and (max-width: 768px) {
@@ -546,7 +554,7 @@
   }
 
   #index #container-def h1 {
-    color: #d41c1c;
+    color: #ec5242;
     font-size: 30px;
     font-weight: 1000;
     line-height: 30px;
@@ -565,7 +573,7 @@
   }
 
   #index #container-def h3 {
-    color: #d31717;
+    color: #ec5242;
     font-size: 25px;
     font-weight: 600;
     line-height: 24px;
@@ -635,7 +643,7 @@
   }
 
   #about #container-def h1 {
-    color: #d41c1c;
+    color: #ec5242;
     font-size: 30px;
     font-weight: 1000;
     line-height: 30px;
@@ -646,7 +654,7 @@
   }
 
   #about #container-def h3 {
-    color: #d31717;
+    color: #ec5242;
     font-size: 25px;
     font-weight: 600;
     line-height: 24px;
@@ -720,28 +728,29 @@
   }
 
   #navbar .icons {
-    background-color: #6e6e6e;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     padding: 0 9rem 0 58rem;
     color: white;
-    font-size: 14px;
   }
 
   li {
     list-style: none;
+    font-family: 'Lato', sans-serif;
   }
 
   #navbar .navbar-nav {
-    margin-left: 10rem;
+    margin-left: 4rem;
     display: flex;
-    justify-content: space-between;
-    width: 50%;    
+    justify-content: end;
+    width: 70%;
+    gap: 20px;
+    font-size: 14px;
   }
 
   #navbar .navbar-brand {
     margin-left: 8rem;
-    
   }
 
   #speakers .container {
@@ -785,5 +794,3 @@
     }
   }
 }
-
-
