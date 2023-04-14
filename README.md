@@ -78,8 +78,7 @@ It will be deployed after merge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-## 👥 Authors <a name="author"></a> 
+<!-- AUTHORS --> 
 ## 👥 Author <a name="author"></a> 
 - Enobong Isong
  
